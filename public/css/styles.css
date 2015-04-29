@@ -1,11 +1,33 @@
+/*
+dark green - #183219
+nav green - #415c26
+link green - #61982a
+link green hover - #73aa35
+*/
+.navbar-brand {
+  padding: 10px 0 0 0;
+}
 #logo img {
-  width: 128px;
+  width: 100px;
   height: auto;
+  z-index: 10;
+  position: relative;
+}
+a {
+  color: #61982a;
+}
+a:focus, a:hover {
+  color: #73aa35;
+}
+.navbar-inverse {
+  background-color: #415c26;
+  border-color: #183219;
 }
 .navbar-inverse .navbar-nav>li>a {
   color: white;
+  border-right: 1px solid #415c26;
 }
-.navbar-inverse .navbar-nav>li>a:hover {
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
   background-color: #719746;
 }
 .btn-primary {
@@ -17,25 +39,18 @@
   background-color: #73aa35;
   border-color: #568a1f;
 }
-/*@media (max-width: 992px) {
+@media (max-width: 991px) {
   #logo img {
     width: 80px;
   }
-  .navbar-collapse.collapse {
-    display: none !important;
-  }
-  .navbar-toggle {
-    display: block;
-  }
-  .navbar-header {
-    float: none;
-  }
-}*/
+}
+
 ul#social {
   list-style-type: none;
 }
 ul#social li {
   display: inline-block;
+  margin-left: 6px;
 }
 
 /* CHANGED BREAKPOINT FOR MOBILE NAV FROM 768 TO 991 */
@@ -77,3 +92,22 @@ ul#social li {
     }
 }
 /* END CHANGED BREAKPOINT */
+
+.jumbotron {
+  padding-top: 100px;
+  margin-bottom: 60px;
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #dbdbdb;
+}
+#home .jumbotron {
+  padding-top: 20px;
+}
+hr {
+  border-color: #dbdbdb;
+}
+.gray-bg-footer {
+  border-top: 1px solid #dbdbdb;
+  background-color: #f5f5f5;
+  margin-top: 60px;
+  padding: 20px 0 40px;
+}
