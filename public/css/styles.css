@@ -167,3 +167,9 @@ body {
     float: none;
   }
 }*/
+ul#social {
+  list-style-type: none;
+}
+ul#social li {
+  display: inline-block;
+}
