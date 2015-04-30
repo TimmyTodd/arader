@@ -5,7 +5,10 @@ link green - #61982a
 link green hover - #73aa35
 */
 .navbar-brand {
-  padding: 10px 0 0 0;
+  padding: 10px 6px 0 0;
+}
+.carousel-caption {
+  bottom: 44px;
 }
 #logo img {
   width: 100px;
