@@ -4,6 +4,33 @@ nav green - #415c26
 link green - #61982a
 link green hover - #73aa35
 */
+
+/* enable dropdown on hover on desktop https://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know */
+@media only screen and (min-width : 768px) {
+    /* Make Navigation Toggle on Desktop Hover */
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+}
+
+
+blockquote {
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
 .navbar-brand {
   padding: 10px 6px 0 0;
 }

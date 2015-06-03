@@ -15,8 +15,8 @@
         <div class="item active" style="background:url('img/hero/1.jpg') top center;">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Lorem ipsume header copyipsum.</h1>
-              <p>Donec sit amet elit ac augue blandit volutpat quis eu dui. Sed imperdiet lacinia enim sit amet vestibulum.</p>
+              <h1>Expert tree care by skilled professionals </h1>
+              <p>From large tree preservation or removal, to stump grinding and tree transplanting, Arader’s certified arborists can take care of all your tree needs.</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
             </div>
           </div>
@@ -24,18 +24,18 @@
         <div class="item" style="background:url('img/hero/1.jpg') top center;">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Lorem ipsume header copyipsum.</h1>
-              <p>Donec sit amet elit ac augue blandit volutpat quis eu dui. Sed imperdiet lacinia enim sit amet vestibulum.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+              <h1>Healthy plants mean a healthy community</h1>
+              <p>Using the safest and most environmentally approved plant health products has led to an active presence in neighborhood organizations with a holistic and positive impact.</p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">Here’s How</a></p>
             </div>
           </div>
         </div>
         <div class="item" style="background:url('img/hero/1.jpg') top center;">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Lorem ipsume header copyipsum.</h1>
-              <p>Donec sit amet elit ac augue blandit volutpat quis eu dui. Sed imperdiet lacinia enim sit amet vestibulum.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+              <h1>Emergency tree service is a phone call away</h1>
+              <p>Arader offers emergency tree removal and felling services in the Philadelphia, Montgomery, Bucks, and Chester counties.</p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">Call Now</a></p>
             </div>
           </div>
         </div>
@@ -52,8 +52,8 @@
 
     <div class="jumbotron">
       <div class="container text-center">
-        <h1>Arader Tree Service</h1>
-        <p>Donec sit amet elit ac augue blandit vvolutpat quiseu dui. Sed imperdiet lacinia enim sitamet vestibulum. Sit amet elit ac augue blandit volutpat quis eu dui. Sed imperdiet lacinia enim sit amet vestibulum. Sit amet elit ac augue blandit volutpat quis eu dui. Sed imperdiet lacinia enim sit amet vestibulum.</p>
+        <h1>Keeping the Main Line green for 40 years</h1>
+        <p>For over 40 years, Arader Tree Service, Inc. has been committed to giving Philadelphia, Bucks, Chester and Montogomery county-area plants, trees and shrubs the care that they need to live longer and more healthy. Arader Tree Service is the Main Line’s number one Philadelphia tree removal, trimming and tree care specialist. Call today and let’s talk.</p>
       </div>
     </div>
 
@@ -66,21 +66,21 @@
       <div class="row">
         <div class="col-lg-4">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <h2>Why choose Arader Tree?</h2>
+          <p>Aside from experience and professionalism, the Arader team brings a love and respect of nature to every job we complete. Read what our customers have to say.</p>
+          <p><a class="btn btn-default" href="#" role="button">Learn More &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h2>Heading</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus <a href="">sit amet fermentum</a>. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <h2>Let us realize your landscaping dream.</h2>
+          <p>Our comprehensive landscaping division is ready to consult with you to create your serene and enduring outdoor living space based on form, function, aesthetics, and beauty.</p>
+          <p><a class="btn btn-default" href="#" role="button">Learn More &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <h2>Hardscape design adds value and enjoyment.</h2>
+          <p>From patio to pathway, retaining wall to driveway, our design team will work within your budget and timeframe to create an enduring design you’ll treasure.</p>
+          <p><a class="btn btn-default" href="#" role="button">Learn More &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 

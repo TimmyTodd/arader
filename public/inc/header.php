@@ -45,7 +45,14 @@
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav text-center">
                 <!-- <li class="active"><a href="index.php" title="TREE CARE">TREE CARE</a></li> -->
-                <li><a href="tree-care.php" title="TREE CARE">TREE CARE</a></li>
+                <li class="dropdown">
+                  <a href="tree-care.php" class="dropdown-toggle" data-toggle="dropdown" title="TREE CARE">TREE CARE <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="tree-care.php" title="RESIDENTIAL">RESIDENTIAL</a></li>
+                    <li class="divider"></li>
+                    <li><a href="tree-care.php" title="COMMERCIAL">COMMERCIAL</a></li>
+                  </ul>
+                </li>
                 <li><a href="landscaping.php" title="LANDSCAPING">LANDSCAPING</a></li>
                 <li><a href="plant-health-care.php" title="PLANT HEALTH CARE">PLANT HEALTH CARE</a></li>
                 <li><a href="we-care.php" title="WE CARE">WE CARE</a></li>
