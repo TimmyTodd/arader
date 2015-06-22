@@ -4,6 +4,21 @@ nav green - #415c26
 link green - #61982a
 link green hover - #73aa35
 */
+html, body {
+  width: 100%;
+}
+
+body {
+    font-family: "proxima-nova","HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
+html, body, span, p {
+  color: #6e736c;
+}
+
+h1, h2, h3, h4 {
+  font-family:"adelle",Georgia,Cambria,"Times New Roman",Times,serif;font-weight:500
+}
 
 /* enable dropdown on hover on desktop https://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know */
 @media only screen and (min-width : 768px) {
@@ -11,6 +26,10 @@ link green hover - #73aa35
     .dropdown:hover .dropdown-menu {
         display: block;
     }
+}
+
+.carousel-caption h1, .carousel-caption p {
+  color: #fff;
 }
 
 
@@ -126,7 +145,7 @@ ul#social li {
 .jumbotron {
   padding-top: 100px;
   margin-bottom: 60px;
-  background-color: #f5f5f5;
+  background-color: #ebe9e2;
   border-bottom: 1px solid #dbdbdb;
 }
 #home .jumbotron {

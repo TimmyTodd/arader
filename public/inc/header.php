@@ -31,7 +31,7 @@
     <div class="navbar-wrapper">
       <div class="container">
 
-        <nav class="navbar navbar-inverse navbar-static-top">
+        <nav class="navbar navbar-inverse navbar-fixed-top">
           <div class="container">
             <div class="navbar-header">
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -46,11 +46,11 @@
               <ul class="nav navbar-nav text-center">
                 <!-- <li class="active"><a href="index.php" title="TREE CARE">TREE CARE</a></li> -->
                 <li class="dropdown">
-                  <a href="tree-care.php" class="dropdown-toggle" data-toggle="dropdown" title="TREE CARE">TREE CARE <b class="caret"></b></a>
+                  <a href="tree-care-residential.php" class="dropdown-toggle" data-toggle="dropdown" title="TREE CARE">TREE CARE <b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="tree-care.php" title="RESIDENTIAL">RESIDENTIAL</a></li>
+                    <li><a href="tree-care-residential.php" title="RESIDENTIAL">RESIDENTIAL</a></li>
                     <li class="divider"></li>
-                    <li><a href="tree-care.php" title="COMMERCIAL">COMMERCIAL</a></li>
+                    <li><a href="tree-care-commercial.php" title="COMMERCIAL">COMMERCIAL</a></li>
                   </ul>
                 </li>
                 <li><a href="landscaping.php" title="LANDSCAPING">LANDSCAPING</a></li>

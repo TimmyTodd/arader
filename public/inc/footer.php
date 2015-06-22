@@ -8,7 +8,7 @@
           <li><a href="https://www.linkedin.com/company/arader-tree-services-inc-" title="Arader on LinkedIn" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a></li>
           <li><a href="https://plus.google.com/+AradertreePA-TreeService/posts" title="Arader on Google+" target="_blank"><i class="fa fa-google-plus-square fa-3x"></i></a></li>
         </ul>
-        <p>&copy; <?php echo date("Y"); ?> Arader Tree Service &nbsp;&middot;&nbsp; <a href="tel:+6102778733">(610) 277-8733</a><br />
+        <p>&copy; <?php echo date("Y"); ?> Arader Tree Service &nbsp;&middot;&nbsp; <strong><a href="tel:+6102778733">(610) 277-8733</a></strong><br />
         <span class="small">10 Balligomingo Road suite 2A, West Conshohocken, PA 19428</span></p>
       </footer>
 
