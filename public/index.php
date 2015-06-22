@@ -1,4 +1,8 @@
-<?php include 'inc/header.php' ?>
+<?php include 'inc/header-top.php' ?>
+<title>Arader Tree Service</title>
+<?php include 'inc/header-middle.php' ?>
+<body id="home">
+<?php include 'inc/header-bottom.php' ?>
 
   <div id="home">
 
@@ -15,9 +19,9 @@
         <div class="item active" style="background:url('img/hero/1.jpg') top center;">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Expert tree care by skilled professionals </h1>
+              <h1>Expert tree care by skilled professionals</h1>
               <p>From large tree preservation or removal, to stump grinding and tree transplanting, Arader’s certified arborists can take care of all your tree needs.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+              <p><a class="btn btn-lg btn-primary" href="tree-care-residential.php" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
@@ -26,7 +30,7 @@
             <div class="carousel-caption">
               <h1>Healthy plants mean a healthy community</h1>
               <p>Using the safest and most environmentally approved plant health products has led to an active presence in neighborhood organizations with a holistic and positive impact.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Here’s How</a></p>
+              <p><a class="btn btn-lg btn-primary" href="plant-health-care.php" role="button">Here’s How</a></p>
             </div>
           </div>
         </div>
@@ -35,7 +39,7 @@
             <div class="carousel-caption">
               <h1>Emergency tree service is a phone call away</h1>
               <p>Arader offers emergency tree removal and felling services in the Philadelphia, Montgomery, Bucks, and Chester counties.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Call Now</a></p>
+              <p><a class="btn btn-lg btn-primary" href="contact-is\\us.php" role="button">Call Now</a></p>
             </div>
           </div>
         </div>
@@ -57,9 +61,6 @@
       </div>
     </div>
 
-    <!-- Marketing messaging
-    ================================================== -->
-
     <div class="container marketing">
 
       <!-- Three columns of text below the carousel -->
@@ -68,19 +69,19 @@
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
           <h2>Why choose Arader Tree?</h2>
           <p>Aside from experience and professionalism, the Arader team brings a love and respect of nature to every job we complete. Read what our customers have to say.</p>
-          <p><a class="btn btn-default" href="#" role="button">Learn More &raquo;</a></p>
+          <p><a class="btn btn-default" href="about-us.php" role="button">Learn More &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
           <h2>Let us realize your landscaping dream.</h2>
           <p>Our comprehensive landscaping division is ready to consult with you to create your serene and enduring outdoor living space based on form, function, aesthetics, and beauty.</p>
-          <p><a class="btn btn-default" href="#" role="button">Learn More &raquo;</a></p>
+          <p><a class="btn btn-default" href="landscaping.php" role="button">Learn More &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
           <h2>Hardscape design adds value and enjoyment.</h2>
           <p>From patio to pathway, retaining wall to driveway, our design team will work within your budget and timeframe to create an enduring design you’ll treasure.</p>
-          <p><a class="btn btn-default" href="#" role="button">Learn More &raquo;</a></p>
+          <p><a class="btn btn-default" href="contact-us.php" role="button">Contact Us &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 

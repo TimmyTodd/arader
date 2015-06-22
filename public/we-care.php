@@ -1,4 +1,8 @@
-<?php include 'inc/header.php' ?>
+<?php include 'inc/header-top.php' ?>
+<title>We Care</title>
+<?php include 'inc/header-middle.php' ?>
+<body id="weCare">
+<?php include 'inc/header-bottom.php' ?>
 
     <div class="jumbotron">
       <div class="container text-center">
@@ -13,7 +17,7 @@
         <div class="col-md-7">
           <h2 class="featurette-heading">Community involvement with holistic impact</h2>
           <p class="lead">Arader Tree Service is very active within the community and works with organizations that have a holistic impact on our neighborhoods. Here is a list of organizations that Arader Tree has been involved with:</p>
-          <ul>
+          <ul class="col-xs-6 col-md-6">
             <li><span>Philadelphia Outward Bound School</span></li>
             <li><span>Willistown Conservative Trust</span></li>
             <li><span>The Harriton Association</span></li>
@@ -25,6 +29,8 @@
             <li><span>Springside Chestnut Hill Academy</span></li>
             <li><span>George Clay Firehouse</span></li>
             <li><span>Gladwyne Firehouse</span></li>
+          </ul>
+          <ul class="col-xs-6 col-md-6">
             <li><span>Philadelphia Zoo</span></li>
             <li><span>Tyler Arboretum</span></li>
             <li><span>The Agnes Irwin School</span></li>
@@ -46,7 +52,7 @@
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Award Starburst with Main Line Times logo?</h2>
+          <h2 class="featurette-heading">Needs Title (Award Starburst with Main Line Times logo?)</h2>
           <p class="lead">Did you know that Arader Tree Service, Inc. was named BEST TREE SERVICE in the 3rd Annual Best of Life Reader's Choice Contest sponsored by Main Line Life?</p>
         </div>
         <div class="col-md-5 col-md-pull-7">

@@ -102,6 +102,10 @@ ul#social li {
   margin-left: 6px;
 }
 
+#araderTeam img {
+  margin-left: 0;
+}
+
 /* CHANGED BREAKPOINT FOR MOBILE NAV FROM 768 TO 991 */
 @media (max-width: 991px) {
     .navbar-header {
@@ -159,4 +163,64 @@ hr {
   background-color: #f5f5f5;
   margin-top: 60px;
   padding: 20px 0 40px;
+}
+
+ul {
+  color: #61982a;
+}
+ul li span {
+  color: #6E736A;
+}
+
+#araderTeam .row > div {
+  padding-bottom: 50px;
+}
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover {
+  background-color: #719746;
+}
+
+.dropdown-menu {
+  padding: 0;
+}
+
+.dropdown-menu>li>a {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.dropdown-menu .divider {
+  margin: 0;
+}
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover, .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+  background-color: #719746; /* light hover green */
+}
+.dropdown-menu>li>a {
+  color: #fff;
+}
+.dropdown-menu, .dropdown-menu .divider, .dropdown-menu, .navbar-inverse .navbar-toggle  {
+  background-color: #415c26; /* dark green */
+}
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+  color: #fff;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
+  color: #fff;
+}
+
+.phone {
+  float: right;
+  color: #719746;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 12px 0 0;
+}
+
+.phone.visible-xs {
+  width: 50%;
+  margin: 0 auto;
+  position: relative;
+  z-index: 50;
+  text-align: center;
+  float: none;
 }

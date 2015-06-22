@@ -1,7 +1,7 @@
 <?php include 'inc/header-top.php' ?>
-<title>Residential Tree Care</title>
+<title>Tree Care</title>
 <?php include 'inc/header-middle.php' ?>
-<body id="residential">
+<body id="treeCare">
 <?php include 'inc/header-bottom.php' ?>
 
     <div class="jumbotron">

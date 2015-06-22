@@ -1,4 +1,8 @@
-<?php include 'inc/header.php' ?>
+<?php include 'inc/header-top.php' ?>
+<title>Commercial Tree Care</title>
+<?php include 'inc/header-middle.php' ?>
+<body id="commercial">
+<?php include 'inc/header-bottom.php' ?>
 
     <div class="jumbotron">
       <div class="container text-center">
